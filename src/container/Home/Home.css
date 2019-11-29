@@ -1,0 +1,28 @@
+.back {
+    background-color: aqua;
+    height: 60px;
+    margin-top: 10px;
+}
+
+.link {
+    float: left;
+    list-style: none;
+}
+
+.ahref {
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+    background-color: white;
+    padding: 15px 50px;
+    color: black;
+    margin-top: 6px;
+    text-decoration: none;
+    color: black;
+    border-radius: 5px;
+}
+
+.ahref:hover {
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,28 @@
+.pwrapper {
+  margin: auto;
+  width: 1200px;
+}
+
+.wrapper {
+  border: 2px solid rgb(27, 219, 75);
+  width: 220px;
+  box-sizing: 12px;
+  float: left;
+  margin-right: 10px;
+}
+
+.gambar {
+  width: 100%;
+  height: 125px;
+  overflow: hidden;
+  position: relative;
+}
+
+.harga {
+  text-align: center;
+  color: darkblue;
+}
+
+.gambarpaket {
+  width: 100%;
+}
